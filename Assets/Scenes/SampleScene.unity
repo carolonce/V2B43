@@ -508,7 +508,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
+<<<<<<< HEAD
   m_Text: "V2B43 \u738B\u5B87\u863F"
+=======
+  m_Text: Button
+>>>>>>> ae9e3aa0c93663db37dbc56155562afa634e60ce
 --- !u!222 &840300815
 CanvasRenderer:
   m_ObjectHideFlags: 0
